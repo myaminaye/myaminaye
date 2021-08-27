@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myaminaye
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web UI/UX design and web development.
 - 💞️ I'm trying to be expert in this field
 - 📫 How to reach me ...
 
