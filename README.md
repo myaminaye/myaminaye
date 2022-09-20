@@ -11,12 +11,12 @@ I'm learning software development, web development and AI field.
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, Python, MySql, C, Dart .....
+HTML, CSS, JavaScript, Python, MySql, C, Dart, WordPress .....
 
 
 - 👋 Hi, I’m @myaminaye
-- 👀 I’m interested in coding, cooking, bulletjournalling.
-- 🌱 I’m currently learning web UI/UX design, web development and software development and VR.
+- 👀 I’m interested in coding, cooking, bullet journaling.
+- 🌱 I’m currently learning web UI/UX design, web development and software development and AI.
 - 💞️ I'm trying to be expert in this field.
 - 📫 How to reach me ...myaminaye22@gmail.com
 
